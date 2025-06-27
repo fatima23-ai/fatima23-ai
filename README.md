@@ -1,6 +1,6 @@
  I'm Fatma 
  
-  💻 Aspiring Back-End Developer | 🎓 Student at NSST | 🛠️ PCB Designer | 🎨 UI/UX Enthusiast
+   Aspiring Back-End Developer | 🎓 Student at NSST | 🛠️ PCB Designer 
 ---
 ### 👩‍🎓 About Me
 I'm **Fatma**, a passionate student at **NSST** with a background in electronics and design.  
