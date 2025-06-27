@@ -27,13 +27,6 @@ Currently, I'm diving into the **Back-End Development** track with **ALX**, wher
 - 🌐 Backend Tools (Python, APIs, Git)  
 - 💡 Creativity & Structured Thinking  
 ---
-###  Let’s Connect!
+###  Connect!
 - [LinkedIn](https://github.com/user-attachments/assets/009eacd6-b727-4cf8-8185-d4582a2a2672)
 
-- [Twitter](https://twitter.com/your-handle)
-- 📧 your.email@example.com
-
----
-
-### 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?st)
